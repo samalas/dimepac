@@ -1,0 +1,140 @@
+{
+  "products": [
+    {
+      "_id": "product1",
+      "image": "/images/blue.png",
+      "title": "Bluephoria",
+      "description": "",
+      "availableSizes": ["Drinks"],
+      "price": 3.5
+    },
+    {
+      "_id": "product2",
+      "image": "/images/mint.png",
+      "title": "Enlighten Mint",
+      "description": "",
+      "availableSizes": ["Drinks"],
+      "price": 3.5
+    },
+    {
+      "_id": "product3",
+      "image": "/images/starbucksfrap.png",
+      "title": "Frapp Mocha 13.7oz",
+      "description": "",
+      "availableSizes": ["Drinks"],
+      "price": 5.0
+    },
+    {
+      "_id": "product4",
+      "image": "/images/rockstar.jpg",
+      "title": "Rockstar 16oz",
+      "description": "",
+      "availableSizes": ["Drinks"],
+      "price": 4.0
+    },
+    {
+      "_id": "product5",
+      "image": "/images/cokediet.jpg",
+      "title": "Coke Diet 20z",
+      "description": "",
+      "availableSizes": ["Drinks"],
+      "price": 3.0
+    },
+    {
+      "_id": "product6",
+      "image": "/images/cokeclassic20z.jpg",
+      "title": "Coke Classic 20z",
+      "description": "",
+      "availableSizes": ["Drinks"],
+      "price": 3.0
+    },
+    {
+      "_id": "product7",
+      "image": "/images/sprite20z.jpg",
+      "title": "Sprite 20z",
+      "description": "",
+      "availableSizes": ["Drinks"],
+      "price": 3.0
+    },
+    {
+      "_id": "product8",
+      "image": "/images/cheetoshot.jpg",
+      "title": "Flamin' Hot Limon",
+      "description": "",
+      "availableSizes": ["Snacks"],
+      "price": 2.5
+    },
+    {
+      "_id": "product9",
+      "image": "/images/cheetospuffs.png",
+      "title": "Jumbo Puffs",
+      "description": "",
+      "availableSizes": ["Snacks"],
+      "price": 2.5
+    },
+    {
+      "_id": "product10",
+      "image": "/images/kitkat.jpg",
+      "title": "Kit Kat King Size",
+      "description": "",
+      "availableSizes": ["Snacks"],
+      "price": 3.0
+    },
+    {
+      "_id": "product11",
+      "image": "/images/doritos.png",
+      "title": "Doritos Nacho",
+      "description": "",
+      "availableSizes": ["Snacks"],
+      "price": 2.5
+    },
+    {
+      "_id": "product12",
+      "image": "/images/lays.jpg",
+      "title": "Lay's Classic",
+      "description": "",
+      "availableSizes": ["Snacks"],
+      "price": 2.5
+    },
+    {
+      "_id": "product13",
+      "image": "/images/kettle.jpg",
+      "title": "Jalapeno Chips (2oz)",
+      "description": "",
+      "availableSizes": ["Snacks"],
+      "price": 2.5
+    },
+    {
+      "_id": "product14",
+      "image": "/images/ruffles.png",
+      "title": "Cheddar Sour Cream",
+      "description": "",
+      "availableSizes": ["Snacks"],
+      "price": 2.5
+    },
+    {
+      "_id": "product15",
+      "image": "/images/takis.jpg",
+      "title": "Takis Fuego (40z)",
+      "description": "",
+      "availableSizes": ["Snacks"],
+      "price": 2.5
+    },
+    {
+      "_id": "product16",
+      "image": "/images/magnum.jpg",
+      "title": "Trojan Magnum 3pk",
+      "description": "",
+      "availableSizes": ["Other"],
+      "price": 7.0
+    },
+    {
+      "_id": "product17",
+      "image": "/images/ultrathin.jpg",
+      "title": "Trojan Ultra Thin 3pk",
+      "description": "",
+      "availableSizes": ["Other"],
+      "price": 6.5
+    }
+  ]
+}
